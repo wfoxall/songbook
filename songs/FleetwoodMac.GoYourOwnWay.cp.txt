@@ -1,0 +1,51 @@
+{artist: Fleetwood Mac}
+{title: Go Your Own Way}
+
+{comment: Intro}
+[F]
+
+{start_of_verse}
+[F]Loving you,   isn't the right thing to d[C]o?[Bb]
+[Bb]How can I,    ever change things that I [F]feel?
+[F]If I could,   maybe I'd give you my [C]world[Bb]
+[Bb]How can I,    when you wont take it from [F]me?
+{end_of_verse}
+
+{start_of_chorus}
+[Dm]You can [Bb]go your own [C]way,   Go your own way
+[Dm]You can [Bb]call it  [C]Another lonely day
+[Dm]You can [Bb]go your own [C]way,   Go your own way
+{end_of_chorus}
+
+{start_of_verse}
+[F]Tell me why,   everything turned a[C]round?[Bb]
+[Bb]Packing up,    shacking up is all you wanna [F]do
+[F]If I could,    baby I'd give you my [C]world[Bb]
+[Bb]Open up,       everything s waiting for [F]you
+{end_of_verse}
+
+{start_of_chorus}
+[Dm]You can [Bb]go your own [C]way,   Go your own way
+[Dm]You can [Bb]call it  [C]Another lonely day
+[Dm]You can [Bb]go your own [C]way,   Go your own way
+{end_of_chorus}
+
+{comment: Break 1}
+[F] [C][Bb][F][C][Bb][F][C][Bb][F][C][Bb][F]
+
+{start_of_chorus}
+[Dm]You can [Bb]go your own [C]way,   Go your own way
+[Dm]You can [Bb]call it  [C]Another lonely day
+[Dm]You can [Bb]go your own [C]way,   Go your own way
+{end_of_chorus}
+
+{comment: Solo}
+[Dm] [Bb][C]
+
+{start_of_chorus}
+[Dm]You can [Bb]go your own [C]way,   Go your own way
+[Dm]You can [Bb]call it  [C]Another lonely day
+[Dm]You can [Bb]go your own [C]way,   Go your own way
+{end_of_chorus}
+
+(Fade out on chorus)

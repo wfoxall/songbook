@@ -1,0 +1,55 @@
+{artist: Fleetwood Mac}
+{title: Everywhere}
+
+{comment: Intro}
+E B E B E B C#m A (x2)
+
+{start_of_verse}
+[E]Can you hear me [B]calling [E]out your [B]name?
+[E]You know that I'm [B]falling and I [C#m]don't
+know what to [A]say.
+[E]I'll speak a little [B]louder..[E]I'll even [B]shout..
+[E]You know that I'm [B]proud and I can't [C#m]get the
+words [A]out.
+{end_of_verse}
+
+{start_of_chorus}
+[B]Ohhhh.[C#m]....[A]..[B]..[C#m]....I want to [B]be with you [A]everywhere.[B]
+[B]Ohhhh.[C#m]....[A]..[B]..[C#m]....I want to [B]be with you [A]everywhere.[B]
+(Wanna be with you everywhere.)
+{end_of_chorus}
+
+{start_of_verse}
+[E]Something's [B]happening..[E]happening to [B]me.
+[E]My friends [B]say I'm acting [C#m]peculiarly.
+[E]Come on, [B]baby, we [E]better make a [A]start.
+[E]You better make it [B]soon..before you [C#m]break my heart.[A]
+{end_of_verse}
+
+{start_of_chorus}
+[B]Ohhhh.[C#m]....[A]..[B]..[C#m]....I want to [B]be with you [A]everywhere[B]
+[B]Ohhhh.[C#m]....[A]..[B]..[C#m]....I want to [B]be with you [A]everywhere.[B]
+(Wanna be with you everywhere.)
+{end_of_chorus}
+
+{start_of_verse}
+[E]Can you hear me [B]calling [E]out your [B]name?
+[E]You know that I'm [B]falling and I [C#m]don't
+know what to [A]say.
+[E]Come on, [B]baby, we [E]better make a [B]start.
+[E]You better make it [B]soon..before you [C#m]break my heart.[A]
+{end_of_verse}
+
+{start_of_chorus}
+[B]Ohhhh.[C#m]....[A]..[B]..[C#m]....I want to [B]be with you [A]everywhere.[B]
+[B]Ohhhh.[C#m]....[A]..[B]..[C#m]....I want to [B]be with you [A]everywhere.[B]
+(Wanna be with you everywhere.)
+{end_of_chorus}
+
+{comment: Outro}
+[B]Ohhhh.[C#m]....[A]..[B]..[C#m]....I want to [B]be with you [A]everywhere.[B]
+[B]Ohhhh.[C#m]....[A]..[B]..[C#m]....I want to [B]be with you [A]everywhere.[B]
+
+{comment: Outro}
+(Wanna be with you everywhere.)
+[E][A][E][A][E][A]

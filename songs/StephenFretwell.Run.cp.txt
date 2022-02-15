@@ -1,0 +1,64 @@
+{title: Run}
+{artist: Stephen Fretwell}
+{comment: Main Riff}
+
+{start_of_verse}
+[G]Run, run like the [C/A]wind
+Don't wait for a [G/B]thing
+There is [C]nothing here for [G]you
+[G]But if you [C/A]stay
+Then let me [G/B]say
+I'll go [C]out of my way...for [G]you
+[G]It's not like [C/A]before
+I'll say no [G/B]more
+Every[C]one else has said it for [G]me
+Beautiful [C/A]tree
+Beautiful [G/B]tree
+it's a [C]shame that the root of its [G]me
+{end_of_verse}
+
+{comment: Bridge (x2)}
+[G]     [C/A]       [G/B]       [C]
+
+{start_of_verse}
+Sleep, sleep on the floor
+Knock on the door
+To tell me if you want some more
+I can't relate
+To what's on your plate
+My appetite never failed before
+Beautiful tree
+Beautiful tree
+it's a shame that the root of its me
+Beautiful tree
+Beautiful tree
+it's a[D] s[Cadd9]hame th[Cadd9]at the root of its me
+{end_of_verse}
+
+{comment: Bridge}
+{comment: No Chord}
+Tell me tomorrow, I'll wait by the window for you
+
+{start_of_verse}
+Run, run like the wind
+Don't wait for a thing
+There is nothing here for you
+But if you stay
+Then let me say
+I'll go out of my way...for you
+It's not like before
+I say no more
+Everyone else has said it for me
+Beautiful tree
+Beautiful tree
+it's a[D] s[Cadd9]hame th[Cadd9]at the root of its me
+{end_of_verse}
+
+{comment: Outro}
+[G]Cs[A7sus4]us2    [G/B]G       A7sus4 G/B
+I'll wait by the big house for you 
+[Csus2]I'll wait by the [G]squeez[A7sus4]e box f[G/B]or you
+[Csus2]I'll wait by [G]the dresse[A7sus4]r for y[G/B]ou
+
+[Csus2]G  A7sus4  G/B  Csus2
+[G]

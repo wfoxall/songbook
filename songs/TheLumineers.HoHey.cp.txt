@@ -1,0 +1,56 @@
+{title:Ho Hey}
+{artist:The Lumineers}
+{comment: Intro}
+[F]    [C](Ho)    [F]    [C](Hey)    [F]    [C](Ho)    [F]    [C](Hey)    [F](Ho)
+
+{start_of_verse}
+[C] I've been trying to do it right [F]  [C](Hey)
+I've been [C]living a lonely life  [F]  [C](Ho)
+I've been [C]sleeping here instead [F]  [C](Hey)
+I've been [C]sleeping in my bed (Ho)
+[Am] sleeping in[G] my bed [F]  [C](Hey)
+{end_of_verse}
+
+[F]    [C](Ho)    [F]    [C](Ho)
+
+{start_of_verse}
+[C]So show me family  [F]  [C](Hey)
+[C]all the blood that I will bleed [F]  [C](Ho)
+[C]I don't know where I belong [F]  [C](Hey)
+[C]I don't know where I went wrong (Ho)
+[Am]But I can [G]write a song [F]  [C](Hey)
+{end_of_verse}
+
+{start_of_chorus}
+I belong with [Am]you, you belong with [G]me, you're my [C]sweetheart
+I belong with [Am]you, you belong with [G]me, you're my:
+[F]sweet [C](Ho)
+{end_of_chorus}
+
+[F]    [C](Hey)    [F]    [C](Ho)    [F]    [C](Hey)    [F](Ho)
+
+{start_of_verse}
+[C]I don't think you're right for hi[F]m[C]
+[C]Think of what it might've been [F]if [C]you
+[C]Took a bus to Chinatown[F][C]
+[C]I'd be standing on Canal... [Am]   and [G]Bowery[F][C]
+[Am]And she'd be standing [G]next to me[F][C]
+{end_of_verse}
+
+{start_of_chorus}
+I belong with [Am]you, you belong with[G] me, you're my [C]sweetheart
+I belong with [Am]you, you belong with [G]me, you're my [C]sweetheart
+{end_of_chorus}
+
+{comment: Bridge}
+And [F]love, [G]we need it [C]now
+Let's [F]hope for [Gsus]some[G]
+Cuz [F]oh, we're [G]bleeding [C]out
+
+{start_of_chorus}
+I belong with [Am]you, you belong with [G]me, you're my [C]sweetheart
+I belong with [Am]you, you belong with [G]me, you're my [F]sweet   [C](Ho)
+{end_of_chorus}
+
+{comment: Outro}
+[F]    [C](Hey)    [F]    [C](Ho)    [F]    [C](Hey)

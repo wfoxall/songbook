@@ -1,0 +1,91 @@
+{artist: Adele}
+{title: Rolling In The Deep}
+{comment: Intro}
+[Cm]
+
+{start_of_verse}
+[Cm]There's a fire [Gm]starting in my heart,
+[Bb]Reaching a fever pitch, and it's b[Gm]ringing me out the dark[Bb]
+[Cm]Finally, I can [Gm]see you crystal clear
+[Bb]Go ahead and sell me out, and I'[Gm]ll lay your shit bare[Bb]
+{end_of_verse}
+
+{start_of_verse}
+[Cm]See how I'll leave with [Gm]every piece of you
+[Bb]Don't underestimate the t[Gm]hings that I will do[Bb]
+[Cm]There's a fire [Gm]starting in my heart
+[Bb]Reaching a fever pitch, and it's b[Gm]ringing me out the dark[Bb]
+{end_of_verse}
+
+
+{comment: Pre-Chorus}
+[Ab]   The scars of y[Bb]our love, remind me of[Gm] us
+They keep me [Ab]thinking that we almost had i[Bb]t al[Ab]l
+The scars of [Bb]your love, they leave me b[Gm]reathless
+I can't help [G7#5]feeling...
+
+
+{start_of_chorus}
+We could have had it [Cm]all... (You're gonna wish you, [Bb]never had met me)...
+Rolling in the [Ab]deep (Tears are gonna fall, r[Ab]olling in the de[Bb]ep)
+You [(Bb)]had my heart... (you're gonna wish you)... In[Cm]side of your ha[Bb]nd (Never had met me)
+And you pla[Ab]yed it... (Tears are gonna fall)... To the be[Ab]at (Rolling in the de[Bb]ep)
+{end_of_chorus}
+
+
+{start_of_verse}
+[Cm]Baby, I have no [Gm]story to be told,
+But [Bb]I've heard one on you. Now I'm g[Gm]onna make your head burn[Bb]
+[Cm]Think of me in the [Gm]depths of your despair
+[Bb]Make a home down there, as m[Gm]ine sure won't be shared[Bb]
+{end_of_verse}
+
+
+{comment: Pre-Chorus}
+[Ab]   The scars of y[Bb]our love, remind me of[Gm]us. (You're gonna wish you, never had met me)
+They keep me [Ab]thinking that we almost had it a[Ab]ll (Tears are gonna fall, rolling in the deep)
+The scars of [Bb]your love, they leave me b[Gm]reathless (You're gonna wish you, never had met me)
+I can't help [G7]feeling... (Tears are gonna fall, rolling in the deep)
+
+
+{start_of_chorus}
+We could have had it [Cm]all...  (You're gonna wish you, [Bb]never had met me)...
+Rolling in the [Ab]deep (Tears are gonna fall, r[Ab]olling in the de[Bb]ep)
+You [(Bb)]had my heart... (you're gonna wish you)... In[Cm]side of your ha[Bb]nd (Never had met me)
+And you pla[Ab]yed it... (Tears are gonna fall)... To the be[Ab]at (Rolling in the de[Bb]ep)
+{end_of_chorus}
+
+
+{comment: Interlude}
+[(Bb)]Could have had it [Ab]all     [Bb]
+Rolling in the [Cm]deep[Bb]
+You had my heart in[Ab]side of your ha[Ab]nd
+But you pla[Bb]yed it    with a bea[Bb]ting
+
+
+{start_of_verse}
+{comment: N.C.}
+Throw yourself through every open door (Whoa)
+Count your blessings to find what you look for (Whoa-uh)
+[Cm]Turn my sorrow into treasured gold (Whoa)
+You'll pay me back in kind and reap just what you sow.
+{end_of_verse}
+
+
+{start_of_chorus}
+([Cm]You're gonna wish you, [Bb]never had met me)
+We could have had it [Ab]all (Tears are gonna fall, r[Ab]olling in the de[Bb]ep)
+We [(Bb)]could have had it [Cm]all yeah (You're gonna wish you, ne[Bb]ver had met me)
+It [Ab]all,   It all,   It a[Ab]ll (Tears are gonna fall, rolling in the de[Bb]ep)
+
+We [(Bm)]could have had it [Cm]all (You're gonna wish you, [Bb]never had met me)
+Rolling in the [Ab]deep (Tears are gonna fall, r[Ab]olling in the de[Bb]ep)
+You [(Bm)]had my heart (you're gonna wish you) In[Cm]side of your [Bb]hand (Never had met me)
+And you pla[Ab]yed it (Tears are gonna fall) To the be[Ab]at (Rolling in the de[Bb]ep)
+
+We [(Bm)]could have had it [Cm]all (You're gonna wish you, [Bb]never had met me)
+Rolling in the [Ab]deep (Tears are gonna fall, r[Ab]olling in the de[Bb]ep)
+You [(Bm)]had my heart (you're gonna wish you) In[Cm]side of your [Bb]hand (Never had met me)
+But you pla[Ab]yed it. You played it. You play[Ab]ed it.
+You pla[Bb]yed it to the b[Cm]eat.
+{end_of_chorus}

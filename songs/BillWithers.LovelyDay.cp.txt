@@ -1,0 +1,65 @@
+{artist: Bill Withers}
+{title: Lovely Day}
+Tuning: E A D G B E
+Key: E
+
+{comment: Intro}
+| [E]/ / / / | [C#m7]/ / / / | [Amaj7]/ / / / | /  /[Cmaj7]  /  /[Bm7]|
+| [E]/ / / / | [C#m7]/ / / / | [Amaj7]/ / / / | /  /[Cmaj7]  /  /[Bm7]|
+
+{start_of_verse}
+[E]When I wake up in the [C#m7]morning love[Amaj7]
+[Amaj7]And the sunlight hurts my eyes[Cmaj7][Bm7]
+[E]And something without [C#m7]warning love[Amaj7]
+[Amaj7]Bears heavy on my [Cmaj7]mind
+{end_of_verse}
+
+{comment: Pre-chorus}
+[Am7/D]Then I look at you[Bm7/E]
+And the world's a[Am7]lright with me[Bm7]
+[Am7/D]Just one look at you[Bm7/E]
+And I know it's [Am7]gonna be[Bm7]
+
+{start_of_chorus}
+A lovely [E]day (Lovely day lovely day [C#m7]lovely day lovely day [Amaj7]lovely day lovely day [Cmaj7]lovely day lovely [Bm7]day)
+A lovely [E]day (Lovely day lovely day [C#m7]lovely day lovely day [Amaj7]lovely day lovely day [Cmaj7]lovely day lovely [Bm7]day)
+{end_of_chorus}
+
+{start_of_verse}
+[E]When the day that lies [C#m7]ahead of me[Amaj7]
+[Amaj7]Seems impossible to face[Cmaj7][Bm7]
+[E]When someone else in[C#m7]stead of me[Amaj7]
+[Amaj7]Always seems to know the [Cmaj7]way
+{end_of_verse}
+
+{comment: Pre-chorus}
+[Am7/D]Then I look at you[Bm7/E]
+And the world's a[Am7]lright with me[Bm7]
+[Am7/D]Just one look at you[Bm7/E]
+And I know it's [Am7]gonna be[Bm7]
+
+{start_of_chorus}
+A lovely [E]day (Lovely day lovely day [C#m7]lovely day lovely day [Amaj7]lovely day lovely day [Cmaj7]lovely day lovely [Bm7]day)
+A lovely [E]day (Lovely day lovely day [C#m7]lovely day lovely day [Amaj7]lovely day lovely day [Cmaj7]lovely day lovely [Bm7]day)
+{end_of_chorus}
+
+{start_of_verse}
+[E]When the day that lies a[C#m7]head of me[Amaj7]
+[Amaj7]Seems impossible to face[Cmaj7][Bm7]
+[E]When someone else in[C#m7]stead of me[Amaj7]
+[Amaj7]Always seems to know the [Cmaj7]way
+{end_of_verse}
+
+{comment: Pre-chorus}
+[Am7/D]Then I look at you[Bm7/E]
+And the whole world's a[Am7]lright with me[Bm7]
+[Am7/D]Just one look at you[Bm7/E]
+And I know it's [Am7]gonna be[Bm7]
+
+{start_of_chorus}
+A lovely [E]day (Lovely day lovely day [C#m7]lovely day lovely day [Amaj7]lovely day lovely day [Cmaj7]lovely day lovely [Bm7]day)
+A lovely [E]day (Lovely day lovely day [C#m7]lovely day lovely day [Amaj7]lovely day lovely day [Cmaj7]lovely day lovely [Bm7]day)
+A lovely [E]day (Lovely day lovely day [C#m7]lovely day lovely day [Amaj7]lovely day lovely day [Cmaj7]lovely day lovely [Bm7]day)
+A lovely [E]day (Lovely day lovely day [C#m7]lovely day lovely day [Amaj7]lovely day lovely day [Cmaj7]lovely day lovely [Bm7]day)
+
+{end_of_chorus}

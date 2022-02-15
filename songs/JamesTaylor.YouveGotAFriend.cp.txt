@@ -1,0 +1,57 @@
+{title: You've Got a Friend}
+{artist: James Taylor}
+Capo: 2
+
+{comment: Intro}
+|[A/D]____________|[D]______[(E)]______|[Asus4]______[A]______|[G#m7]______[C#7]______|
+
+{start_of_verse}
+When you're d[F#m]own and [C#7]troubled and you [F#m]need a [C#7]helping [F#m7]hand,
+and [Bm7]nothing, oh, [E7sus4]nothing is going [A]right,[Asus4][A]
+
+[G#m7]close your eyes and [C#7]think of me and [F#m]soon I [C#7]will be [F#m]there[F#m7]
+to [Bm7]brighten up [C#m7]even your darkest night
+[E7sus4]|____________[E7]|______[Esus2]______[E7]|
+{end_of_verse}
+
+{start_of_chorus}
+You just [A]call out my [Amaj7]name,  and you [D]know wherever I [Bm7]am,
+I'll come [A]running [Amaj7]  to see you again.
+[E7sus4]|____________[E7]|______[Esus2]______[E7]|
+[A]Winter, spring, summer, or [Amaj7]fall,  [D]all you got to do is [F#m]call
+and I'll [D]be there,     [C#m7]yeah,    [Bm7]yeah,    [E7sus4]yeah.
+[E7sus4]You've got a friend
+|[A/D]____________|[D]______[(E)]______|[Asus4]______[A]______|[G#m7]______[C#7]______|
+{end_of_chorus}
+
+{start_of_verse}
+[C#7]If the [F#m]sky a[C#7]bove you should turn [F#m]dark and [C#7]full of clouds[F#m7],
+and that [Bm7]old north [E7sus4]wind should begin to blow[A],[Asus4][A]
+[G#m7]keep your head to[C#7]gether and [F#m]call my [C#7]name out [F#m7]loud.
+[Bm7]Soon I'll be [C#m7]knocking upon your [E7sus4]door.[E7][Esus2][E7]
+{end_of_verse}
+
+{start_of_chorus}
+You just [A]call out my [Amaj7]name,  and you [D]know wherever I [Bm7]am,
+I'll come [A]running [Amaj7]  to see you a[E7sus4]gain.[E7][Esus2][E7]
+[A]Winter, spring, summer, or [Amaj7]fall,  [D]all you got to do is [F#m]call
+and I'll [D]be there,     [C#m7]yeah, [Bm7]yeah,[E7sus4]yeah.
+{end_of_chorus}
+
+{comment: Bridge}
+Hey [G]ain't it good to know that [D]you've got a friend when
+[A]people can be so [Amaj7]cold.     They'll [D]hurt you and [Gmaj7]desert you.
+they'll [F#m]take your soul if you [B7]let them.
+Oh yeah, but [E7sus4]don't you let them.[E7sus4][E7]
+
+{start_of_chorus}
+You just [A]call out my n[Amaj7]ame,  and you [Dmaj7]know wherever I [Bm7]am,
+I'll come [A]running[Amaj7]   to see you [E7sus4]again.[E7][Esus2][E7]
+[A]Winter, spring, summer, or [Amaj7]fall,  [D]all you got to do is [F#m]call
+and I'll [D]be there, [C#m7]yes I[Bm7] will.[E7sus4]
+You've got a frien[A]d. [D] You've got a [A]friend.
+[D]Ain't it good to know you've [A]got a friend?
+Ain't it [D]good to know you've got a fr[A]iend?
+Oh, yeah,[D] yeah.  You've got a friend.[Asus4][A]
+
+{end_of_chorus}

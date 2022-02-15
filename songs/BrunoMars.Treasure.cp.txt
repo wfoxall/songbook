@@ -1,0 +1,56 @@
+{artist: Bruno Mars}
+{title: Treasure}
+
+{comment: Intro}
+[Bb] [Bb][Bb][Bb][Bb]
+
+{start_of_verse}
+Gi[Ab]ve me all, give me all, g[Ab]ive me all[G] attention [Fm]baby[Fm][Ab]
+[Gm]I got to tell you a little s[Gm]omethi[Gm]ng about yours[Cm]elf[Cm][Bb]
+You're wond[Ab]erful, flawless[Ab], ooh you'[G]re a sexy [Fm]lady[Fm][Ab]
+[Gm]But you walk around here lik[Gm]e you [Gm]wanna be someo[Cm]ne else[Cm][Bb]
+{end_of_verse}
+
+{comment: Refrain}
+Ooooh w[Ab]oahh[Ab][G][Fm][Fm][Ab]
+[Gm]I know that you don't know it, but yo[Gm]u're f[Gm]ine, so fine ([Cm]fine, so[Cm] fine[Bb])
+Ooooh w[Ab]oahh[Ab][G][Fm][Fm][Ab]
+[Gm]Oh girl I'm gonna show you when you'r[Gm]e mine[Gm], oh mine [Bb](m[Bb]in[Bb]e,[Bb] o[Bb]h mine)
+
+{start_of_chorus}
+[Ab]Tre[Ab]asur[G]e,    [Fm] that is[Fm] what[Ab]you are
+[Gm]Hone[Gm]y you[Gm]'re my[Cm]      g[Cm]olden[Bb]star
+[Ab]I k[Ab]now [G]you co[Fm]uld make[Fm] my w[Ab]ish come true
+[Gm]If y[Gm]ou le[Gm]t me t[Cm]reasure[Cm] you[Bb][Ab][Ab][G][Fm][Fm][Ab]
+[Gm]If you [Gm]let me [Gm]treasure yo[Bb]u,[Bb] o[Bb]h [Bb]oh[Bb]
+{end_of_chorus}
+
+{start_of_verse}
+Pr[Ab]etty girl, pretty girl[Ab], pretty girl you s[G]hould be sm[Fm]iling[Fm][Ab]
+[Gm]A girl like you should[Gm] never [Gm]look so bl[Cm]ue[Bb]
+[Ab]You're everything[Ab] I se[G]e in my dre[Fm]ams[Fm][Ab]
+[Gm]I wouldn't say that to[Gm] you if[Gm] it wasn't[Cm] true[Bb]
+{end_of_verse}
+
+{comment: Refrain}
+Ooooh w[Ab]oahh[Ab][G][Fm][Fm][Ab]
+[Gm]I know that you don't know it, but yo[Gm]u're f[Gm]ine, so fine ([Cm]fine, so[Cm] fine[Bb])
+Ooooh w[Ab]oahh[Ab][G][Fm][Fm][Ab]
+[Gm]Oh girl I'm gonna show you when you'r[Gm]e mine[Gm], oh mine [Bb](m[Bb]in[Bb]e,[Bb] o[Bb]h mine)
+
+{start_of_chorus}
+[Ab]Tre[Ab]asur[G]e,    [Fm] that is[Fm] what[Ab]you are
+[Gm]Hone[Gm]y you[Gm]'re my[Cm]      g[Cm]olden[Bb]star
+[Ab]I k[Ab]now [G]you co[Fm]uld make[Fm] my w[Ab]ish come true
+[Gm]If y[Gm]ou le[Gm]t me t[Cm]reasure[Cm] you[Bb][Ab][Ab][G][Fm][Fm][Ab]
+[Gm]If you [Gm]let me [Gm]treasure yo[Bb]u,[Bb] o[Bb]h [Bb]oh[Bb]
+{end_of_chorus}
+
+{comment: Bridge}
+[Ab]You are[Ab] my treasur[G]e,    [Fm]    you are my treas[Fm]ure[Ab]
+[Gm]You are my t[Gm]reasure[Gm],      [Cm]yeah, you you[Cm] you,[Bb]you are
+[Ab]You are[Ab] my treasur[G]e, you[Fm] are my treasure[Fm][Ab]
+[Gm]You are my t[Gm]reasure[Gm],      [Cm]yeah, you you[Cm] you,[Bb]you are
+
+{comment: Outro}
+[Ab]  [Ab]  [G]   [Fm]    [Fm]    [Ab]  [Gm]    [Gm]    [Gm]    [Cm]    [Cm]    [Bb]..;*fade

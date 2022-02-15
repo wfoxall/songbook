@@ -1,0 +1,50 @@
+{title: Come Together}
+{artist: The Beatles}
+{comment: Intro}
+
+{start_of_verse}
+[Dm]Here come old flat top, he come grooving up slowly,
+[Dm]He got Joo Joo eyeball, he one holy roller
+He got [A7]hair down to his knee;
+[G7]Got to be a joker, he just do what he please.
+{end_of_verse}
+
+{comment: Instrumental}
+
+{start_of_verse}
+[Dm]He wear no shoe shine, he got toe jam football
+[Dm]He got monkey finger, he shoot coca cola
+He say, [A7]"I know you, you know me."
+[G7]One thing I can tell you is you got to be free
+{end_of_verse}
+
+{start_of_chorus}
+Come [Bm]together, [A]right [G]now,[A]over me
+{end_of_chorus}
+
+{comment: Instrumental}
+
+{start_of_verse}
+[Dm]He bag production, he got walrus gumboot
+[Dm]He got Ono sideboard, he one spinal cracker
+He got [A7]feet down below his knee
+[G7]Hold you in his armchair, you can feel his disease
+{end_of_verse}
+
+{start_of_chorus}
+Come [Bm]together, [A]right [G]now,[A]over me
+{end_of_chorus}
+
+{comment: Instrumental}
+
+{start_of_verse}
+[Dm]He roller coaster, he got early warning
+[Dm]He got muddy water, he one mojo filter
+He say, [A7]"One and one and one is three."
+[G7]Got to be good looking 'cause he so hard to see
+{end_of_verse}
+
+{start_of_chorus}
+Come [Bm]together, [A]right [G]now,[A]over me
+
+{end_of_chorus}

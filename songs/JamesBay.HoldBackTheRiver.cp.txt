@@ -1,0 +1,73 @@
+{title: Hold Back The River}
+{artist: James Bay}
+{comment: Intro}
+e|-----------------------------------------------------------------------8~~--|
+[B|-6----8--10----13--15-----13--10----13--15-----13--10----10--8---6--5-------|]G|----------------------------------------------------------------------------|
+[D|----------------------------------------------------------------------------|]A|-5----7--8-----12--13-----12--8-----12--13-----12--8-----8------------------|
+[E|-------------------------------------------------------------8---8----------|]
+
+{start_of_verse}
+[Dm7]Tried to [F]keep you cl[Bb]ose to [F]me,
+But [Bb]life got [F]in betwee[C]n
+[Dm7]Tried to s[F]quare not [Bb]being th[F]ere
+But t[Bb]hink that [F]I should have bee[C]n
+{end_of_verse}
+
+{start_of_chorus}
+[Bb]Hold back the river, let me look in your eyes
+[Bb]Hold back the river so I
+[F]Can stop for a minute and see where you hide
+[F]Hold back the river, hold back
+{end_of_chorus}
+
+{start_of_verse}
+[Dm7]Once up[F]on a d[Bb]ifferent l[F]ife
+We r[Bb]ode our b[F]ikes into the sky[C]
+But [Dm7]now we cr[F]awl aga[Bb]inst the t[F]ide
+Those [Bb]distant d[F]ays are flashing [C]by
+{end_of_verse}
+
+{start_of_chorus}
+[Bb]Hold back the river, let me look in your eyes
+[Bb]Hold back the river so I
+[F]Can stop for a minute and be by your side
+Hold back the river, h[C]old back
+[Bb]Hold back the river, let me look in your eyes
+{end_of_chorus}
+
+Hold back the river so I
+[F]Can stop for a minute and see where you hide
+Hold back the river, h[C]old back
+
+{comment: Interlude}
+[Dm7]Ooh o[F]ho, o[Bb]ho, o[F]ho,
+O[Bb]ho, o[F]ho, o[C]hooh
+
+{comment: Bridge}
+[F]Lonely water, lonely water won't you l[Bb]et us wander
+[Gm]Let us hold each other
+[F]Lonely water, lonely water won't you l[Bb]et us wander
+[Gm]Let us hold each other
+
+{start_of_chorus}
+[Bb]Hold back the river, let me look in your eyes
+[Bb]Hold back the river so I
+[F]Can stop for a minute and be by your side
+Hold back the river, h[C]old back
+[Bb]Hold back the river, let me look in your eyes
+[Bb]Hold back the river so I
+[F]Can stop for a minute and be by your side
+Hold back the river, o[C]oh
+{end_of_chorus}
+
+{comment: Bridge}
+[F]Lonely water, lonely water won't you l[Bb]et us wander
+[Gm]Let us hold each other
+[F]Lonely water, lonely water won't you l[Bb]et us wander
+[Gm]Let us hold each other
+
+{comment: Outro}
+e|---------------------------------------------------------------------|
+[B|-6----8--10----13--15-----13--10----13--15-----13--10----10--8--8~~--|]G|---------------------------------------------------------------------|
+[D|---------------------------------------------------------------------|]A|-5----7--8-----12--13-----12--8-----12--13-----12--8-----8---7-------|
+[E|---------------------------------------------------------------------|]

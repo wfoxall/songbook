@@ -1,0 +1,69 @@
+{title: I Got You Babe}
+{artist: Sonny and Cher}
+{comment: Intro}
+|[F]________|[Bb/F]________|[F]________|[Bb/F]________|
+
+{start_of_verse}
+Th[F]ey say we're young and [Bb/F]we don't know
+We [F]won't find out u[Bb]nti.....[Eb]l   we [C]grow
+Well, [F]I don't know if[Bb/F]all that's true
+'Cause y[F]ou got me, and b[Bb]aby [Eb]I got y[C]ou
+{end_of_verse}
+
+{start_of_chorus}
+Bab[F]e         [Bb/F]
+I got y[F]ou babe[Bb/F]
+I got y[F]ou babe[Bb/F]
+{end_of_chorus}
+
+{start_of_verse}
+Th[F]ey say our love won't[Bb/F]pay the rent
+Be[F]fore it's earned, our [Bb]money's [Eb]all been [C]spent
+I [F]guess that's so, we don't [Bb/F]have a pot
+But at l[F]east I'm sure of a[Bb]ll the [Eb]things we [C]got
+{end_of_verse}
+
+{start_of_chorus}
+Bab[F]e         [Bb/F]
+I got y[F]ou babe[Bb/F]
+I got y[F]ou babe[N.C.]
+{end_of_chorus}
+
+{comment: Bridge}
+I got f[Gm]lowers  in the sp[C]ring
+I got [Gm]you  to wear my r[C]ing
+And when I'm s[F]ad, you're a [Bb/F]clown
+And if I get scared, you're always ar[C]ound[C#]
+
+(key changes to F#)
+
+{start_of_verse}
+S[F#]o let them say your [B/F#]hair's too long
+'Cause [F#]I don't care, with [B]you I [E]can't go [C#]wrong
+Then [F#]put your little [B/F#]hand in mine
+T[F#]here ain't no hill or [B]mountain[E] we can't [C#]climb
+{end_of_verse}
+
+{start_of_chorus}
+Bab[F#]e            [B/F#]
+I got y[F#]ou babe[B/F#]
+I got y[F#]ou babe[B/F#]
+{end_of_chorus}
+
+|[F#]________|[B/F#]________|[F#]________|[C#]________|
+
+{comment: Outro}
+[F#]I got you to [B/F#]hold my hand
+[F#]I got you to u[C#]nderstand
+[F#]I got you to [B/F#]walk with me
+[F#]I got you to t[C#]alk with me
+[F#]I got you to [B/F#]kiss goodnight
+[F#]I got you to h[C#]old me tight
+[F#]I got you,[B/F#]I won't let go
+[F#]I got you to l[C#]ove me so
+
+|[F#]________|[B/F#]________|[F#]________|[C#]____[(N.C.)]____|
+
+I g[B]ot... you b[F#]abe
+
+[F#] I got [B/F#]you babe (repeat)

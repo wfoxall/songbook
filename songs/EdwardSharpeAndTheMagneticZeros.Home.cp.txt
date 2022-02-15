@@ -1,0 +1,140 @@
+{artist: Edward Sharpe and the Magnetic Zeros}
+{title: Home}
+
+{comment: Intro}
+Bm D D/F# D G x2
+
+{comment: Basic Picking}
+e|-[Bm]----------------|-[D]----------------|-[D/F#]--------[D]--------|-[G]----------------|
+[B|-----------------|-----------------|-----------------|-----------------|]G|-----------------|---2---2---2---2-|-----------2---2-|-----------------|
+[D|---0---0---0---0-|-0---0---0---0---|---4---4-0---0---|-----------------|]A|-2---2---2---2---|-----------------|-5---5-----------|---2---2---2---2-|
+[E|-----------------|-----------------|-----------------|-3---3---3---3---|]
+
+{comment: Advanced Picking}
+e|-------------0-2-|-[Bm]2---------------|-[D]5---------------|-[D/F#]5-------[D]2---5-2-|-[G]--------------0-|
+[B|-------0-2-3-----|-------------3---|-----------------|-----------------|-3---------0-3---|]G|-----------------|-----------------|---2---2---2---2-|-----------2---2-|-----------------|
+[D|-----------------|---0---0---0---0-|-0---0---0---0---|---4---4-0---0---|-----------------|]A|-----------------|-2---2---2---2---|-----------------|-5---5-----------|---2---2---2---2-|
+[E|-----------------|-----------------|-----------------|-----------------|-3---3---3---3---|]
+
+{start_of_verse}
+[Bm]Alabama, Arkansas,
+[D]I do love my Ma and Pa
+[D/F#]Not the way that [D]I do love [G]you
+{end_of_verse}
+{start_of_verse}
+Well, [Bm]holy moly me oh my
+[D]You’re the apple of my eye
+[D/F#]Girl, I've never [D]loved one like [G]you
+{end_of_verse}
+{start_of_verse}
+[Bm]Man, oh, man, you're my best friend
+[D]I scream it to the nothingness
+[D/F#]There ain't [D]nothing that I [G]need
+{end_of_verse}
+{start_of_verse}
+Well, [Bm]hot and heavy pumpkin pie
+[D]Chocolate candy, Jesus Christ
+[D/F#]Ain't nothing [D]please me more than [G]you
+{end_of_verse}
+
+{start_of_chorus}
+[Bm]Home, let me come [D]home
+[D/F#]Home is wher[D]ever I'm with [G]you
+[Bm]Home, let me come [D]home
+[D/F#]Home is wher[D]ever I'm with [G]you
+{end_of_chorus}
+
+{comment: Bridge}
+[Em]Em [Em]Em [Em]Em [Em]Em [D]D [D]D [A]A [A]A[A][A]
+[Em] [Em][Em][Em][D][D][G][G][G][G]
+
+[Bm]La la [A]la la
+[Em]Take me h[G]ome
+[A]Mother, I'm coming home
+
+e|---------------------------------------------------------------|
+[B|---------------------------------------------------------------|]G|---------------------------------------------------------------|
+[D|---------------------------------------------------------------|]A|----0-2-4------------------------------------------------------|
+[E|---------------------------------------------------------------|]
+
+Bm D D/F# D G x2
+
+{start_of_verse}
+[Bm]I'll follow you into the park,
+[D]Through the jungle, through the dark
+[D/F#]Girl, I've never [D]loved one like [G]you
+{end_of_verse}
+{start_of_verse}
+[Bm]Moats and boats, and waterfalls,
+[D]Alleyways, and payphone calls
+[D/F#]I been [D]everywhere with [G]you (that's true)
+{end_of_verse}
+{start_of_verse}
+[Bm]Laugh until we think we'll die,
+[D]Barefoot on a summer night
+[D/F#]Never could be [D]sweeter than with [G]you
+{end_of_verse}
+{start_of_verse}
+[Bm]And in the streets you run afree,
+[D]Like it's only you and me,
+[D/F#]Geez, you're [D]something to [G]see.
+{end_of_verse}
+
+{start_of_chorus}
+Ahhh [Bm]Home, let me come [D]home
+[D/F#]Home is wher[D]ever I'm with [G]you
+[Bm]Home, let me come [D]home
+[D/F#]Home is wher[D]ever I'm with [G]you
+{end_of_chorus}
+
+{comment: Bridge}
+[Em]Em [Em]Em [Em]Em [Em]Em [D]D [D]D [A]A [A]A[A][A]
+[Em] [Em][Em][Em][D][D][G][G][G][G]
+
+[Bm]La la [A]la la
+[Em]Take me h[G]ome
+[A]Daddy, I'm coming home
+
+e|---------------------------------------------------------------|
+[B|---------------------------------------------------------------|]G|---------------------------------------------------------------|
+[D|---------------------------------------------------------------|]A|----0-2-4------------------------------------------------------|
+[E|---------------------------------------------------------------|]
+
+{comment: Talking}
+Bm D D/F# D G x4
+
+‒ Jade?
+‒ Alexander?
+‒ Do you remember that day you fell outta my window?
+‒ I sure do ‒ you came jumping out after me.
+‒ Well, you fell on the concrete, nearly broke your ass, and you were bleeding all over the place,
+ and I rushed you out to the hospital, you remember that?
+‒ Yes, I do.
+‒ Well, there's something I never told you about that night.
+‒ What didn't you tell me?
+‒ Well, while you were sitting in the back seat smoking a cigarette you thought was gonna be your last,
+ I was falling deep, deeply in love with you, and I never told you 'til just now!
+
+{start_of_chorus}
+Ahh [Bm]Home. Let me come [D]home
+[D/F#]Home is wher[D]ever I'm with [G]you
+Ahh [Bm]Home. Let me com[D]e home
+[D/F#]Home is wher[D]ever I'm with [G]you
+{end_of_chorus}
+
+{start_of_chorus}
+[Bm]Home, let me come [D]home,
+[D/F#]Home is wher[D]ever I'm with [G]you
+[Bm]Our home, yes, I am [D]home,
+[D/F#]Home is when [D]I’m alone with [G]you
+{end_of_chorus}
+
+{comment: Outro}
+[Bm]Alabama, Arkan[D]sas,
+[D/F#]I do love my [D]Ma and [G]Pa
+[Bm]Moats and boats, and water[D]falls,
+[D/F#]Alleyways, and [D]payphone [G]calls
+[Bm]Home [D]Home
+[D/F#]Home is when [D]I'm alone with [G]you!
+[Bm]Home [D]Home
+[D/F#]Home is when [D]I’m alone with [G]you

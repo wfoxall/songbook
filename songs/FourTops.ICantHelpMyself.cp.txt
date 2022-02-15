@@ -1,0 +1,44 @@
+{artist: Four Tops}
+{title: I Cant Help Myself}
+
+{start_of_chorus}
+Ooooh!  S[C]ugar Pie, Honey Bunch, You know that [G]I love you
+I can't he[Dm]lp myself, I love you and n[F]obody else[G]    [Am]
+{end_of_chorus}
+
+{start_of_verse}
+[C]In and out my life (in and out my life), you come and you [G]go (you come and you go)
+Leaving just your pi[Dm]cture behind....(ooh), and I've kissed it a th[F]ousand times (ooh[G])    [Am]
+
+[C]When you snap your finger, or wink you eye, I come a-r[G]unning to you
+I'm t[Dm]ied to your apron strings, and there's nothing that [F]I can do[G]    [Am]
+{end_of_verse}
+
+{comment: Solo}
+[C]    [G]    [Dm]    [F]    [G]    [Am]    [C]   [G]
+I can't h[Dm]elp myself, no, I can't h[F]elp myself,[G]    [Am]
+
+{start_of_chorus}
+'Cause, S[C]ugar Pie Honey Bunch, I'm weaker than a m[G]an should be
+I can't [Dm]help myself, I'm a fool in lo[F]ve 'ya see[G]    [Am]
+{end_of_chorus}
+
+{start_of_verse}
+Wanna t[C]ell you I don't love you, tell you that we're through, a[G]nd I try....
+But ev'ry time I s[Dm]ee your face, I get all choked u[F]p inside[G]    [Am]
+
+Wh[C]en I call your name, girl, it starts to flame, burning in my heart, tear'n it all apart..
+No ma[C]tter how I try, my love I cannot hide....
+{end_of_verse}
+
+{start_of_chorus}
+'Cause Su[C]gar Pie Honey Bunch, you know that I'm wa[G]iting for you (waiting for you)
+I can't h[Dm]elp myself, I love you and n[F]obody else[G]    [Am]
+{end_of_chorus}
+
+{start_of_chorus}
+S[C]ugar Pie Honey Bunch, I'd do anything you a[G]sk me to (ask me to)
+I can't h[Dm]elp myself, I want you and n[F]obody else[G]    [Am]
+S[C]ugar Pie, Honey Bunch, you know that I lo[G]ve you (I dooo)
+I can't h[Dm]elp myself...,  No... I can't he[F]lp myself[G]    [Am]
+{end_of_chorus}

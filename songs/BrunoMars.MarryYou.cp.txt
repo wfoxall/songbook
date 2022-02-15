@@ -1,0 +1,81 @@
+{title: Marry You}
+{artis: Bruno Mars}
+
+Capo: 3
+
+{comment: Intro}
+|[F]________|[Gm]________|[A#]________|[F]________|
+
+{start_of_chorus}
+It’s a [F]beautiful night,
+We’re looking for something [Gm]dumb to do.
+Hey b[A#]aby, I think I want to marry yo[F]u.
+Is it that [F]look in your eyes,
+Or is it this [Gm]dancing juice?
+Who c[A#]ares baby, I think I wanna marry yo[F]u.
+{end_of_chorus}
+
+{start_of_verse}
+Well, I [F]know this little chapel on the boulevard we can [Gm]go - oh-oh,
+No one will [A#]know - oh-oh,
+Oh, come [F]on, girl.
+Who [F]cares if we're trashed, got a pocket full of cash we can [Gm]blow - oh-oh,
+Shots of Pa[A#]tron, and it's [F]on girl.
+{end_of_verse}
+
+{comment: Pre-chorus}
+Don't say [F]no, no, no, no-no;
+Just say [Gm]yeah, yeah, yeah-yeah, yeah;
+And we'll [A#]go, go, go-go, go.
+If you're [F]ready, like I'm ready.
+
+{start_of_chorus}
+Cause it's a [F]beautiful night,
+We're looking for something [Gm]dumb to do.
+Hey b[A#]aby, I think I wanna marry yo[F]u.
+Is it the [F]look in your eyes,
+Or is it this [Gm]dancing juice?
+Who c[A#]ares baby, I think I wanna marry yo[F]u.
+{end_of_chorus}
+
+{start_of_verse}
+[F]I'll go get a ring, let the choir bells sing, like [Gm]oooh-ooh-ooh,
+So whatcha wanna [A#]do-ooh-ooh?
+Let's just [F]run, girl.
+[F]If we wake up and you wanna break up that's [Gm]coo-oo-ool.
+No, I won't blame [A#]you -ooh-ooh; it was [F]fun, girl.
+{end_of_verse}
+
+{comment: Pre-chorus}
+Don't say [F]no, no, no, no-no;
+Just say [Gm]yeah, yeah, yeah-yeah, yeah;
+And we'll [A#]go, go, go-go, go.
+If you're [F]ready, like I'm ready.
+
+{start_of_chorus}
+Cause it's a [F]beautiful night,
+We're looking for something [Gm]dumb to do.
+Hey b[A#]aby, I think I wanna marry yo[F]u.
+Is it the [F]look in your eyes,
+Or is it this [Gm]dancing juice?
+Who c[A#]ares baby, I think I wanna marry yo[F]u.
+{end_of_chorus}
+
+{comment: Bridge}
+Just say I [F]do - ooh, oo-[Gm]ooh.
+Tell me right [A#]now baby,
+Tell me right [F]now baby, baby.
+
+Just say I [F]do - ooh, oo-[Gm]ooh.
+Tell me right [A#]now baby,
+Tell me right [F]now baby, baby.
+
+{start_of_chorus}
+Oh, it's a [F]beautiful night,
+We're looking for something [Gm]dumb to do.
+Hey b[A#]aby, I think I wanna marry yo[F]u.
+Is it the [F]look in your eyes,
+Or is it this [Gm]dancing juice?
+Who c[A#]ares baby, I think I wanna marry yo[F]u.
+
+{end_of_chorus}

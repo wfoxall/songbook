@@ -1,0 +1,133 @@
+Daft Punk
+Get lucky
+
+This is a simplified way to play "Get Lucky"
+works really well for acoustic
+Both minor chords can be played as 7 chords: Am7 and Em7
+
+Capo 2
+Transpose +2 for original chords
+The chords without the capo are Bm7, D, F#m7, E
+
+
+{comment: Intro}
+| Am | C | Em | D |
+| Am | C | Em | D |
+
+
+{start_of_verse}
+{end_of_verse}
+{comment: D}
+   Like the legend of the phoenix
+[D]  All ends with be[F#m]ginnings
+[E]  What keeps the planet [Bm]spinning
+[D]  The force from the be[F#m]ginning[E]
+
+
+{comment: Pre-chorus}
+[Bm]We've come too [D]far
+To give [F#m]up who we [E]are
+So [Bm]let's raise the [D]bar
+And our [F#m]cups to the [E]stars
+
+
+{start_of_chorus}
+[Bm]She's up all night till the sun
+[D]I'm up all night to get some
+[F#m]She's up all night for good fun
+[E]I'm up all night to get lucky
+[Bm]We're up all night till the sun
+[D]We're up all night to get some
+[F#m]We're up all night for good fun
+[E]We're up all night to get lucky
+[Bm]We're up all night to get lucky
+[D]We're up all night to get lucky
+[F#m]We're up all night to get lucky
+[E]We're up all night to get lucky
+{end_of_chorus}
+
+| Am | C | Em | D |
+
+
+{start_of_verse}
+{end_of_verse}
+{comment: D}
+   The present has no ribbon
+[D]  Your gift keeps on [F#m]giving
+[E]  What is this I'm [Bm]feeling?
+[D]  If you want to leave, I'm [F#m]with it[E]
+
+
+{comment: Pre-chorus}
+[Bm]We've come too [D]far
+To give [F#m]up who we [E]are
+So [Bm]let's raise the [D]bar
+And our [F#m]cups to the [E]stars
+
+
+{start_of_chorus}
+[Bm]She's up all night till the sun
+[D]I'm up all night to get some
+[F#m]She's up all night for good fun
+[E]I'm up all night to get lucky
+[Bm]We're up all night till the sun
+[D]We're up all night to get some
+[F#m]We're up all night for good fun
+[E]We're up all night to get lucky
+[Bm]We're up all night to get lucky
+[D]We're up all night to get lucky
+[F#m]We're up all night to get lucky
+[E]We're up all night to get lucky
+{end_of_chorus}
+
+
+
+[Bm]We're up all night to get
+[D]We're up all night to get
+[F#m]We're up all night to get
+[E]We're up all night to get
+
+
+[Bm]We’re up all night to get back together
+[D]We’re up all night (let’s get back together!)
+[F#m]We’re up all night to get funky
+[E]We’re up all night to get lucky
+
+[Bm]We're up all night to get lucky
+[D]We're up all night to get lucky
+[F#m]We're up all night to get lucky
+[E]We're up all night to get lucky
+
+
+{comment: Pre-chorus}
+[Bm]We've come too [D]far
+To give [F#m]up who we [E]are
+So [Bm]let's raise the [D]bar
+And our [F#m]cups to the [E]stars
+
+
+{start_of_chorus}
+[Bm]She's up all night till the sun
+[D]I'm up all night to get some
+[F#m]She's up all night for good fun
+[E]I'm up all night to get lucky
+[Bm]We're up all night till the sun
+[D]We're up all night to get some
+[F#m]We're up all night for good fun
+[E]We're up all night to get lucky
+{end_of_chorus}
+
+[Bm]We're up all night to get lucky
+[D]We're up all night to get lucky
+[F#m]We're up all night to get lucky
+[E]We're up all night to get lucky
+
+[Bm]We're up all night to get lucky
+[D]We're up all night to get lucky
+[F#m]We're up all night to get lucky
+[E]We're up all night to get lucky
+
+
+{comment: Outro}
+| Am | C | Em | D |
+(repeat and fade)

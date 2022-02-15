@@ -1,0 +1,49 @@
+{title: Kids}
+{artist: MGMT}
+{comment: Intro}
+F#m D A E/G# x4
+
+{start_of_verse}
+[F#m]   You were a child[D], crawling on your [A]knees toward it[E/G#]
+[F#m]   Making mama so [D]proud,[A] but your voice was too [E/G#]loud
+[F#m]    [D] We like to watch [A]you laughing[E/G#]
+[F#m]   You pick the insects off [D]plants,[A] no time to think of conse[E/G#]quences
+{end_of_verse}
+
+
+{start_of_chorus}
+[F#m]   Control yourself,[D] take only what you [A]need from it[E/G#]
+[F#m]   A family of [D]trees wanting[A] to be haunted[E/G#]
+[F#m]   Control yourself,[D] take only what you [A]need from it[E/G#]
+[F#m]   A family of [D]trees wanting[A] to be  haunte[E/G#]d
+{end_of_chorus}
+
+
+{start_of_verse}
+[F#m]   The water is warm,[D] but it's sending [A]me shivers[E/G#]
+[F#m]   A baby is born[D]  [A] crying out for a[E/G#]ttention
+[F#m]   Your memories fade,[D] like looking through a [A]fogged mirror[E/G#]
+[F#m]   Decisions to decisions are [D]made and not bought but I [A]thought
+This wouldn't hurt a [E/G#]lot, I guess not
+{end_of_verse}
+
+
+{start_of_chorus}
+[F#m]   Control yourself,[D] take only what you [A]need from it[E/G#]
+[F#m]   A family of [D]trees wanting[A] to be haunted[E/G#]
+[F#m]   Control yourself,[D] take only what you [A]need from it[E/G#]
+[F#m]   A family of [D]trees wanting[A] to be  haunte[E/G#]d
+{end_of_chorus}
+
+
+{comment: Bridge}
+[D] [E][F#m][E/G#][A][Bm][D][E/G#][A]
+
+
+{start_of_chorus}
+[F#m]   Control yourself,[D] take only what you [A]need from it[E/G#]
+[F#m]   A family of [D]trees wanting[A] to be haunted[E/G#]
+[F#m]   Control yourself,[D] take only what you [A]need from it[E/G#]
+[F#m]   A family of [D]trees wanting[A] to be  haunte[E/G#]d
+
+{end_of_chorus}

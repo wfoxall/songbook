@@ -1,0 +1,81 @@
+{artist:Beyonce}
+{title:XO}
+
+{comment: Intro}
+[C]     [Em]    [F]     [G]
+
+{start_of_verse}
+Your love is [C]bright as ever[Em]       [F]     [G]
+Even [C]in the shadow[Em]s[F]      [G]
+Baby, [C]kiss me[Em][F]
+Be[G]fore they turn the lights out[C]      [Em]      [F]      [G]
+Your [C]heart is glowin[Em]g[F]      [G]
+And I'[C]m crashing into[Em] yo[F]u[G]
+Baby, [C]kiss me[Em]        [F]
+Be[G]fore they turn the lights out[C]
+Be[Em]fore they turn the lights out[F]
+Baby[G], love me lights out
+{end_of_verse}
+
+
+{start_of_chorus}
+[C]In the darkest [Em]night hour ([F]In the darkest [G]night hour)
+[C]Search [Em]through the crowd [F](Search [G]through the crowd)
+Your face is [C]all that I [Em]see
+I've given you [F]everything
+Baby,[G] love me lights out[C]
+Ba[Em]by, love me lights out[F]
+{end_of_chorus}
+
+(XO)
+You ca[G]n turn my lights out
+
+[C]
+
+{start_of_verse}
+We don'[C]t have forev[Em]er[F]       [G]
+Baby, [C]daylight's wasti[Em]ng[F]        [G]
+You better [C]kiss me[Em]       [F]
+Be[G]fore our time has run out[C]       [Em]       [F]      [G]
+No[C]body sees what[Em] we see[F]       [G]
+They're jus[C]t hopelessly [Em]gazi[F]ng[G]
+Baby, [C]take me[Em]        [F]
+Be[G]fore they turn the lights out[C]
+Be[Em]fore our time has run out[F]
+Baby[G], love me lights out
+{end_of_verse}
+
+
+{start_of_chorus}
+[C]In the darkest [Em]night hour ([F]In the darkest [G]night hour)
+I'll [C]search [Em]through the crowd (I'll[F] search [G]through the crowd)
+Your face is [C]all that I [Em]see
+I'll give you [F]everything
+Baby,[G] love me lights out[C]
+Ba[Em]by, love me lights out[F]
+You ca[G]n turn my lights out
+{end_of_chorus}
+
+
+{comment: Bridge}
+[C]I love you like[Em]XO
+[F]You love me like[G]XO
+[C]You kill me boy[Em]XO
+[F]You love me like[G]XO
+[C]All that I [Em]see
+Give me [F]everything
+Baby,[G] love me lights out[C]
+Ba[Em]by, love me lights out[F]
+You ca[G]n turn my lights out
+
+
+{start_of_chorus}
+[C]In the darkest [Em]night hour ([C]In the darkest [G]night hour)
+I'll [C]search [Em]through the crowd (I'll[F] search [G]through the crowd)
+Your face is [C]all that I see[Em]
+I'll give you [F]everything
+Baby,[G] love me lights out[C]
+Ba[Em]by, love me lights out[F]
+You ca[G]n turn my lights out[C]
+
+{end_of_chorus}

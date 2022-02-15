@@ -1,0 +1,66 @@
+{artist: Coldplay}
+{title: Yellow}
+
+{start_of_verse}
+[B]Look at the stars
+Look how they shine for [F#]you
+And everything you [E]do
+Yeah, they were all yellow[B] 
+
+[B]I came along
+I wrote a song for [F#]you
+And all the things you [E]do
+And it was called, "Yellow"
+[B]So then I took my [F#]turn
+Oh, what a thing to have [E]done
+And it was all [B]yellow  [Bsus4]          [B].
+{end_of_verse}
+
+{start_of_chorus}
+[E]Your skin
+[G#m]Oh yeah, your [F#]skin and bones
+[E]Turn into [G#m]something [F#]beautiful
+[E]You know
+[G#m]You know I [f#]love you so[E]
+[E9]You know I love you so
+{end_of_chorus}
+
+{comment: Instrumental}
+[B]     [F#]     [E]
+
+{start_of_verse}
+[B]I swam across
+I jumped across for [F#]you
+Oh, what a thing to [E]do
+'Cause you were all yellow[B] 
+
+[B]I drew a line
+I drew a line for [F#]you
+Oh, what a thing to [E]do
+And it was all [B]yellow  [Bsus4]           [B]
+{end_of_verse}
+
+{start_of_chorus}
+[E]Your skin
+[G#m]Oh yeah, your [F#]skin and bones
+[E]Turn into [G#m]something [F#]beautiful
+[E]And you know
+[G#m]For you I'd [F#]bleed myself [E]dry
+[E9]For you I'd bleed myself dry
+{end_of_chorus}
+
+{comment: Instrumental}
+[B]     [F#]     [E]
+
+{comment: Outro}
+It's [B]true
+Look how they shine for [F#]you
+Look how they shine for [E]you
+Look how they shine for
+[B]Look how they shine for [F#]you
+Look how they shine for [E]you
+Look how they shine
+
+[B]Look at the stars
+Look how they shine for [F#m]you
+And all the things that you [E]do

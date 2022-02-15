@@ -1,0 +1,92 @@
+{title: Murder on the Dancefloor}
+{artist: Sophie Ellis Bexter}
+{comment: Riff 1}
+e|----------------|
+B|-----5-7/8h9-5--|
+[G|-4h6------------|]D|----------------|
+[A|----------------|]E|----------------|
+
+{comment: Intro}
+[E]     [B]     [F#m]   [A]
+Murder...
+[E]Hey, It's murder on the dancefloo[B]r [Fm]
+[A]But you better not kill the groov[E]e
+[B]Dj, gonna [Fm]burn this goddamn house right [A]down
+
+{start_of_verse}
+Oh, I [G#m]know I know I know I know I know I know
+[G#m]Abou[Gm]t you[F#m]r kind [F#m-Gm]
+And [G#m]so and so and so and so and so
+[G#m]I'll [Gm]have[F#m] to play[E]
+{end_of_verse}
+
+{comment: Riff 1}
+e|----------------|
+B|-----5-7/8h9-5--|
+[G|-4h6------------|]D|----------------|
+[A|----------------|]E|----------------|
+
+{comment: Chorus 1}
+[E]   If y[B]ou think you're ge[F#m]tting away
+[A]I will prove you wrong
+[E]    I'[B]ll take you a[F#m]ll the way
+[A]Boy, just come along
+[E]   Hea[B]r me wh[F#m]en I s[A]ay
+[C#]Hey, It's murder on the dancefloor
+[C#]But you better not [C]kill the [B]groove
+[C#]It's murder on the dancefloor
+[C#]But you better not [C]steal the [B]moves
+Dj, gonna burn this goddamn house right down
+
+{start_of_verse}
+Oh, I [G#m]know I know I know I know I know I know
+there[Gm] may [F#m]be others
+And [G#m]so and so and so and so and so
+you'll just [Gm]have [F#m]to pray
+{end_of_verse}
+
+{comment: Riff 1}
+e|----------------|
+B|-----5-7/8h9-5--|
+[G|-4h6------------|]D|----------------|
+[A|----------------|]E|----------------|
+
+{comment: Chorus 2}
+[E]   If y[B]ou think you're ge[F#m]tting away
+[A]I will prove you wrong
+[E]    I'[B]ll take you a[F#m]ll the way
+[A]Stay another song
+[E]   I'l[B]l blow [F#m]you all a[A]way
+[C#]Hey, It's murder on the dancefloor
+[C#]But you better not [C]kill the [B]groove
+[C#]It's murder on the dancefloor
+[C#]But you better not [C]steal the [B]moves
+Dj, gonna turn this house around so[E]mehow"
+[C#]It's murder on the dancefloor
+[C#]But you better not [C]kill the [B]groove
+[C#]It's murder on the dancefloor
+[C#]But you better not [C]steal the [B]moves
+ Dj, gonna burn this goddamn house right down"
+
+{comment: Solo}
+E B Fm A (x4)
+
+{comment: Riff 1}
+e|----------------|
+B|-----5-7/8h9-5--|
+[G|-4h6------------|]D|----------------|
+[A|----------------|]E|----------------|
+
+{start_of_chorus}
+[E]   Don'[B]t think you'l get [F#m]away
+[A]I will prove you wrong
+[E]    I'[B]ll take you a[F#m]ll the way
+[A]Boy, just come along
+[E]    He[B]ar me w[F#m]hen I [A]say
+[C#]Hey, It's murder on the dancefloor
+[C#]But you better not [C]kill the [B]groove
+[C#]It's murder on the dancefloor
+[C#]But you better not [C]steal the [B]moves
+Dj, gonna burn this goddamn house right down
+
+{end_of_chorus}
