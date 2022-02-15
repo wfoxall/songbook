@@ -11,15 +11,15 @@ you'll never be what is in your[F]heart
 [Dm]Weep little lion man
 you're not as brave as you were at the[F]start
 [C]Rate yourself and rake yourself
-[A#]take all the [A#maj7]courage you have[F]left
+[Bb]take all the [Bbmaj7]courage you have[F]left
 [C]Wasted on fixing all the
-[A#]problems that you [A#maj7]made in your own[F]head
+[Bb]problems that you [Bbmaj7]made in your own[F]head
 {end_of_verse}
 
 {start_of_chorus}
-But it was [Dm]not your [A#]fault but m[F]ine
-and it was [Dm]your heart [A#]on the l[F]ine
-I really [Dm]fucked it [A#]up this t[F]ime
+But it was [Dm]not your [Bb]fault but m[F]ine
+and it was [Dm]your heart [Bb]on the l[F]ine
+I really [Dm]fucked it [Bb]up this t[F]ime
 didn't I, my[C]dear?
 [C]Didn't I, my
 [Dm]        [F]        [Dm]        [F]
@@ -31,30 +31,31 @@ you know that you have seen this all b[F]efore
 [Dm]Tremble little lion man
 you'll never settle any of your[F]scores
 Your [C]grace is wasted in your face
-your [A#]boldness stands a[A#maj7]lone among the [F]wreck
+your [Bb]boldness stands a[Bbmaj7]lone among the [F]wreck
 Now [C]learn from your mother or else
-[A#]spend your days [A#maj7]biting your [F]own neck
+[Bb]spend your days [Bbmaj7]biting your [F]own neck
 {end_of_verse}
 
 {start_of_chorus}
-But it was [Dm]not your [A#]fault but m[F]ine
-and it was [Dm]your heart [A#]on the l[F]ine
-I really [Dm]fucked it [A#]up this t[F]ime
+But it was [Dm]not your [Bb]fault but m[F]ine
+and it was [Dm]your heart [Bb]on the l[F]ine
+I really [Dm]fucked it [Bb]up this t[F]ime
 didn't I, my[C]dear?
-But it was [Dm]not your [A#]fault but m[F]ine
-and it was [Dm]your heart [A#]on the l[F]ine
-I really [Dm]fucked it [A#]up this t[F]ime
+But it was [Dm]not your [Bb]fault but m[F]ine
+and it was [Dm]your heart [Bb]on the l[F]ine
+I really [Dm]fucked it [Bb]up this t[F]ime
 didn't I, my[C]dear?
 Didn't I, my[Dm] dear[F]?[Dm]        [F]
 {end_of_chorus}
 
 {comment: Bridge}
-[C]        [F]        [A#][x8]
+[C]        [F]        [Bb]...(x8)
+
 
 {start_of_chorus}
 But it was [Dm]not [N.C.]your fault but m[F]ine
-and it was [Dm]your heart [A#]on the l[F]ine
-I really [Dm]fucked it [A#]up this t[F]ime
+and it was [Dm]your heart [Bb]on the l[F]ine
+I really [Dm]fucked it [Bb]up this t[F]ime
 didn't I, my[C]dear?
 {end_of_chorus}
 
