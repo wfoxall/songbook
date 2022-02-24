@@ -1,6 +1,7 @@
 <template>
   <div class="song">
     <button @click="close">Back</button>
+    <button @click="chords">Toggle Chords</button>
     <div class="content" v-if="song.html"  v-html="song.html"></div>
     <div v-else>Couldn't load song!!</div>
   </div>
@@ -14,6 +15,9 @@ export default class Song extends Vue {
     @Prop({type:Object,required:true}) readonly song!: APISong;
     close(){
       this.$emit('close');
+    }
+    chords(): void{
+      console.warn('Will Todo: Write this function.')
     }
 }
 </script>
