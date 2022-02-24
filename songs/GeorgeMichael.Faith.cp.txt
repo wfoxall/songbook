@@ -1,0 +1,67 @@
+{artist: George Michael}
+{title: Faith}
+
+{start_of_verse}
+Well, I guess it would be [B]nice if I could touch your body
+I know not [E]everybody has got a body like [B]you
+But I gotta think [B]twice before I give my heart away
+And I know [E]all the games you play because I played them, [B]too
+
+Oh, but I [E]need some time off from [B]that emotion
+[E]Time to pick my heart up off the [B]floor
+Oh, [E]when that love comes down with[B]out de[G#m]votion
+Well, it [C#m7]takes a strong man, baby
+But I'm [F#]showin' you the door
+{end_of_verse}
+
+{start_of_chorus}
+'Cause I gotta have [B]faith
+I gotta' have [B]faith
+Because I gotta have [B]faith, faith, faith
+I got to have [B]faith, faith, faith
+{end_of_chorus}
+
+{start_of_verse}
+[B]Baby, I know you're askin' me to stay
+Say "Please, please, [E]please don't go away"
+You say I'm givin' you the [B]blues
+[B]Maybe you mean every word you say
+Can't help but [E]think of yesterday
+And another who [B]tied me down to loverboy rules
+
+Be[E]fore this river be[B]comes an ocean
+Be[E]fore you throw my heart back on the [B]floor
+Oh, baby, I [E]reconsider my [B]foolish [G#m]notion
+Well, I [C#m7]need someone to hold me
+but I'll [F#]wait for somethin' more
+{end_of_verse}
+
+{start_of_chorus}
+[N.C]Yes, I gotta have [B]faith
+Ooh, I gotta have [B]faith
+Because I gotta have [B]faith, faith, faith
+I gotta have [B]faith, faith, faith
+{end_of_chorus}
+
+{comment: instrumental}
+{start_of_verse}
+[B]         
+[E]        I'll just have to [B]wait
+Because I've got to have [B]faith
+I gotta have [E]faith
+I've got to, got to, got to have [B]faith
+
+
+[E]Before this river be[B]comes an ocean
+Be[E]fore you throw my heart back on the [B]floor (I just gotta have faith)
+
+Oh, oh, baby, I [E]reconsider my [B]foolish [G#m]notion
+Well, I [C#m7]need someone to hold me but I'll [F#]wait for somethin' more....
+{end_of_verse}
+
+{start_of_chorus}
+[N.C]'Cause I gotta have [B]faith
+Ooh, I gotta have [B]faith
+Because I gotta have [B]faith, faith, faith
+I gotta have [B]faith, faith, faith
+{end_of_chorus}

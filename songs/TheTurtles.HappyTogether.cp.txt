@@ -1,0 +1,65 @@
+{title: Happy Together}
+{artist: The Turtles}
+
+{start_of_verse}
+Imagine [F#m]me and you, I do
+I think about you [E]day and night, it's only right
+To think about the [D]girl you love and hold her tight
+So happy to[C#]gether
+{end_of_verse}
+
+{start_of_verse}
+If I should [F#m]call you up, invest a dime
+And you say you be[E]long to me and ease my mind
+Imagine how the [D]world could be, so very fine
+So happy to[C#]gether
+{end_of_verse}
+
+{start_of_chorus}
+[F#]I can't see me [C#m7]lovin' nobody but [F#]you
+For all my [A]life
+[F#]When you're with me, [C#m7]baby the skies'll be [F#]blue
+For all my [A]life
+{end_of_chorus}
+
+{start_of_verse}
+[F#m]Me and you and you and me
+No matter how they [E]toss the dice, it had to be
+The only one for [D]me is you, and you for me
+So happy to[C#]gether
+{end_of_verse}
+
+{start_of_chorus}
+[F#]I can't see me [C#m7]lovin' nobody but [F#]you
+For all my [A]life
+[F#]When you're with me, [C#m7]baby the skies'll be [F#]blue
+For all my [A]life
+{end_of_chorus}
+
+{start_of_verse}
+[F#m]Me and you and you and me
+No matter how they [E]toss the dice, it had to be
+The only one for [D]me is you, and you for me
+So happy to[C#]gether
+{end_of_verse}
+
+{start_of_chorus}
+[F#]Ba-ba-ba-ba [C#m7]ba-ba-ba-ba ba-ba-[F#]ba ba-ba-ba-[A]ba
+[F#]Ba-ba-ba-ba [C#m7]ba-ba-ba-ba ba-ba-[F#]ba ba-ba-ba-[C#m7]ba
+{end_of_chorus}
+
+{start_of_verse}
+[F#m]Me and you and you and me
+No matter how they [E]toss the dice, it had to be
+The only one for [D]me is you, and you for me
+So happy to[C#]gether ooooo[F#m]o
+{end_of_verse}
+{comment: Outro}
+So happy to[C#]gether  (ooo ooo ooo [F#m]oo)
+How is the [C#]weather  (baa ba ba ba [F#m]baaa)
+So happy to[C#]gether  (baa ba ba ba [F#m]baaa)
+We're happy to[C#]gether  (baa ba ba ba [F#m]baaa)
+So happy to[C#]gether  (baa ba ba ba [F#m]baaa)
+Happy to[C#]gether  (baa ba ba ba [F#m]baaa)
+So happy to[C#]gether  (baa ba ba ba [F#m]baaa)
+So happy to[C#]gether  [F#]
