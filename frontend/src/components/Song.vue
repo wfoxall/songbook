@@ -1,10 +1,16 @@
 <template>
-  <div class="song">
-    <button @click="close">Back</button>
-    <button @click="chords">Toggle Chords</button>
-    <div class="content" v-if="song.html"  v-html="song.html"></div>
-    <div v-else>Couldn't load song!!</div>
-  </div>
+  <v-container class="song">
+    <v-row>
+      <!-- <v-col cols="1">
+        <v-btn @click="close">Back</v-btn>
+      </v-col> -->
+      <v-col cols="11">
+        <!-- <button @click="chords">Toggle Chords</button> -->
+        <div class="content" v-if="song.html"  v-html="song.html"></div>
+        <div v-else>Couldn't load song!!</div>
+      </v-col>
+    </v-row>
+  </v-container>
 </template>
 
 <script lang="ts">
