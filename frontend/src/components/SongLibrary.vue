@@ -34,7 +34,7 @@ export default class SongLibrary extends Vue {
 
     async fetchSonglist() {
         console.log('Fetching songlist...')
-        this.songs = await fetch('http://localhost:3000/songs').then(resp=>resp.json())
+        this.songs = await fetch('/songs').then(resp=>resp.json())
     }
 
     selectSong(song: APISong): void {

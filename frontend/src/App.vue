@@ -43,7 +43,7 @@ export default class App extends Vue{
     this.loadSong(song.filename);
   }
   async loadSong(filename: string) {
-    this.currentSong = await fetch('http://localhost:3000/songs/'+filename)
+    this.currentSong = await fetch('/songs/'+filename)
     .then(resp=>resp.json())
     .then(song=>{
       return song;

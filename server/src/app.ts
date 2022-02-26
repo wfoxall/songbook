@@ -5,10 +5,12 @@ import Song from './song';
 import cors from 'cors';
 
 const app = Express();
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 3001;
 
 const songsdir = resolve(__dirname,'../../songs');
 console.log(`${readdirSync(songsdir).length} songs found in directory.`);
+
+app.use(Express.static(resolve(__dirname,'../../frontend/dist')));
 
 app.use(cors({
     origin: ['http://localhost:8080','http://localhost:8081']

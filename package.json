@@ -1,0 +1,25 @@
+{
+  "name": "@wfoxall/sogbook",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "workspaces": [
+    "./frontend",
+    "./server"
+  ],
+  "scripts": {
+    "start": "npm run start -w @wfoxall/songbook-server",
+    "build": "npm run build -workspaces",
+    "prebuild": "npm i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wfoxall/songbook.git"
+  },
+  "author": "Will Foxall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wfoxall/songbook/issues"
+  },
+  "homepage": "https://github.com/wfoxall/songbook#readme"
+}
