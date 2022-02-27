@@ -1,75 +1,63 @@
 {artist: The Zutons}
 {title: Valerie}
 
-All right, it's rolling
-I'm sorry, Charlie Murphy, I was having too much fun
+[Cmaj7] [Dmaj7] [Cmaj7] [Dmaj7]
 
+{start_of_verse}
 Well, sometimes I go out by myself
 And I look across the water
 And I think of all the things, what you're doing
 And in my head I paint a picture
+{end_of_verse}
 
-'Cause since I've come on home
-Well, my body's been a mess
-And I've missed your ginger hair
-And the way you like to dress
-Won't you come on over?
+{start_of_chorus}
+'Cause [F]since I've come on home. Well, my [Em]body's been a mess
+And I've [F]missed your ginger hair. And the [Em]way you like to dress
+[F]Won't you come on over? [Em]Stop making a fool out of [G]me.
 
-Stop making a fool out of me
-Why don't you come on over, Valerie?
+[G]Why don't you come on over,
 
-Valerie
-Valerie
-Valerie
+[Cmaj7]Valerie? [Dmaj7]Valerie. [Cmaj7]Valerie. [Dmaj7]Valerie.
+{end_of_chorus}
 
+{start_of_verse}
 Did you have to go to jail?
-
 Put your house on up for sale
 Did you get a good lawyer?
-
 Hope you didn't catch a tan
 Hope you found the right man who fixed it for you
+
 Are you shopping anywhere?
-
 Changed the color of your hair, are you busy?
-
 And did you have to pay that fine
 That you was dodging all the time
 Are you still busy?
+{end_of_verse}
 
-'Cause since I've come on home
-Well, my body's been a mess
-And I've missed your ginger hair
-And the way you like to dress
-Won't you come on over?
+{start_of_chorus}
+'Cause [F]since I've come on home. Well, my [Em]body's been a mess
+And I've [F]missed your ginger hair. And the [Em]way you like to dress
+[F]Won't you come on over? [Em]Stop making a fool out of [G]me.
 
-Stop making a fool out of me
-Why don't you come on over, Valerie?
+[G]Why don't you come on over,
 
-Valerie
-Valerie
-Valerie
+[Cmaj7]Valerie? [Dmaj7]Valerie. [Cmaj7]Valerie. [Dmaj7]Valerie.
+{end_of_chorus}
 
 Well, sometimes I go out by myself
 And I look across the water
 And I think of all the things, what you're doing
 And in my head I paint a picture
 
-'Cause since I've come on home
-Well, my body's been a mess
-And I've missed your ginger hair
-And the way you like to dress
-Won't you come on over?
+{start_of_chorus}
+'Cause [F]since I've come on home. Well, my [Em]body's been a mess
+And I've [F]missed your ginger hair. And the [Em]way you like to dress
+[F]Won't you come on over? [Em]Stop making a fool out of [G]me.
 
-Stop making a fool out of me
-Why don't you come on over, Valerie?
+[G]Why don't you come on over,
 
-Valerie
-Valerie
-Valerie
-Valerie
-Valerie
-Valerie
-Valerie
+[Cmaj7]Valerie? [Dmaj7]Valerie. [Cmaj7]Valerie. [Dmaj7]Valerie.
+[Cmaj7]Valerie? [Dmaj7]Valerie. [Cmaj7]Valerie. [Dmaj7]Valerie.
+{end_of_chorus}
 
-Why don't you come on over, Valerie?
+[Dmaj7]Why don't you come on over, [Cmaj7]Valerie?
