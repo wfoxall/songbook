@@ -5,7 +5,7 @@ import Song from './song';
 import cors from 'cors';
 
 const app = Express();
-const port = process.env.PORT || 3001;
+const port = process.env.PORT || 3000;
 
 const songsdir = resolve(__dirname,'../../songs');
 console.log(`${readdirSync(songsdir).length} songs found in directory.`);
@@ -16,21 +16,11 @@ app.use(cors({
     origin: ['http://localhost:8080','http://localhost:8081']
 }))
 
-app.get('/songs',(req,res)=>{
-    const dirents = readdirSync(songsdir,{withFileTypes: true});
-    const songs = dirents
-    .filter((dirent)=>dirent.isFile() && dirent.name.endsWith('cp.txt'))
-    .map(dirent=>{
-        let song = parseFilename(dirent.name);
-        return {...song,filename:dirent.name};
+app.get('/songs',(req,res)=>{    
+    readFile(resolve(songsdir,'directory.json'),{encoding:'utf-8'},(err,data)=>{
+        let songs = JSON.parse(data);
+        res.json(songs)
     })
-    res.json(songs.sort((s1,s2)=>{
-        if(s1.title && s2.title){
-            return s1.title > s2.title ? 1: -1;
-        }else{
-            return 0
-        }
-    }));
 })
 
 app.get('/songs/:name',(req,res)=>{

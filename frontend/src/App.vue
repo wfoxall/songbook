@@ -29,6 +29,9 @@ import {Vue,Component} from 'vue-property-decorator';
 import APISong from './apisong';
 import Song from './components/Song.vue';
 import SongLibrary from './components/SongLibrary.vue';
+import {getSong} from './api'
+
+const apiroot = process.env.NODE_ENV === 'development' ? 'http://localhost:3000' : '';
 
 @Component({
   components: {
@@ -37,17 +40,13 @@ import SongLibrary from './components/SongLibrary.vue';
   }
 })
 export default class App extends Vue{
-  sortbytitle = false;
+  sortbytitle = true;
   currentSong: APISong | null = null;
   onSongSelected(song: APISong){
     this.loadSong(song.filename);
   }
   async loadSong(filename: string) {
-    this.currentSong = await fetch('/songs/'+filename)
-    .then(resp=>resp.json())
-    .then(song=>{
-      return song;
-    })
+    this.currentSong = await getSong(filename)
   }
   closeSong() {
     console.log('Received close event.')

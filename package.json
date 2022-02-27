@@ -1,6 +1,6 @@
 {
-  "name": "@wfoxall/sogbook",
-  "version": "1.0.0",
+  "name": "@wfoxall/songbook",
+  "version": "1.1.0",
   "description": "",
   "private": true,
   "workspaces": [
