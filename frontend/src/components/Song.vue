@@ -76,9 +76,20 @@ export default class Song extends Vue {
       align-content: space-between;
       min-width: max-content;
       .chord {
+        font-size: 0.8rem;
         flex: 1;
         font-weight: bold;
-        color: #676b74;
+        color: #373f50;
+        border-radius: 0.2rem;
+        background-color: #eaeff8;
+        align-self: flex-start;
+        min-width: 2rem;
+        text-align: center;
+        margin: 0.1rem;
+        &:empty {
+          background-color: unset;
+          min-width: unset;
+        }
       }
       .lyrics {
         flex: 1;

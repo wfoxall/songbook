@@ -18,6 +18,9 @@
 <script lang="ts">
 import {Component, Vue, Prop} from 'vue-property-decorator';
 import APISong from '../apisong';
+import {getSongList} from '../api';
+
+const apiroot = process.env.NODE_ENV === 'development' ? 'http://localhost:3000' : '';
 
 @Component
 export default class SongLibrary extends Vue {
@@ -34,7 +37,7 @@ export default class SongLibrary extends Vue {
 
     async fetchSonglist() {
         console.log('Fetching songlist...')
-        this.songs = await fetch('/songs').then(resp=>resp.json())
+        this.songs = await getSongList();
     }
 
     selectSong(song: APISong): void {
