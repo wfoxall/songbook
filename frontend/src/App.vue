@@ -16,6 +16,11 @@
           <v-switch v-model="sortbytitle" :label="`Sort by ${sortbytitle ? 'title' : 'artist'}`"></v-switch>
         </v-container>
       </template>
+      <template v-else v-slot:append>
+        <v-container>
+          <v-text-field type="number" @input="onTransposeInput"></v-text-field>
+        </v-container>
+      </template>
     </v-navigation-drawer>
     <v-main class="px-20">
       <Song v-if="currentSong" :song="currentSong" @close="closeSong"/>
@@ -47,6 +52,10 @@ export default class App extends Vue{
   }
   async loadSong(filename: string) {
     this.currentSong = await getSong(filename)
+  }
+  async onTransposeInput(value: string){
+    const transpose = Number.parseInt(value);
+    this.currentSong = await getSong(this.currentSong.filename,transpose)
   }
   closeSong() {
     console.log('Received close event.')

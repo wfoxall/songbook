@@ -11,7 +11,7 @@ export function getSongList(): Promise<APISong[]> {
     return fetch(`${apiroot}songs`)
     .then(resp=>resp.json())
 }
-export function getSong(filename: string): Promise<APISong> {
-    return fetch(`${apiroot}songs/${filename}`)
+export function getSong(filename: string, transpose = 0): Promise<APISong> {
+    return fetch(`${apiroot}songs/${filename}?transpose=${transpose}`)
     .then(resp=>resp.json())
 }
