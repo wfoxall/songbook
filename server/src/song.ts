@@ -4,13 +4,14 @@ import {
     ChordProParser,
     TextFormatter,
     HtmlDivFormatter,
-    UltimateGuitarParser
+    UltimateGuitarParser,
+    Chord
 } from 'chordsheetjs';
 import { isChordLyricsPair } from './utils/typeguards';
 
 export default class Song {
     song: csSong | undefined;
-    constructor(text: string, type: "chordsheet"|"ultimateguitar"|"chordpro" = "chordsheet") {
+    constructor(text: string, type: "chordsheet"|"ultimateguitar"|"chordpro" = "chordsheet", transpose?: number) {
         if(type === "chordsheet") {
             const parser = new ChordSheetParser({preserveWhitespace:true});
             this.song = parser.parse(text);
@@ -23,6 +24,22 @@ export default class Song {
         }else {
             throw "Unsupported format."
         }
+        if(transpose) this.transpose(transpose);
+    }
+
+    transpose(semitones: number) {
+        const int = Math.round(semitones);
+        this.song?.paragraphs
+        .forEach(p=>{
+            p.lines.forEach(l=>{
+                l.items.forEach(i=>{
+                    if(isChordLyricsPair(i)){
+                        let chord = Chord.parse(i.chords);
+                        if(chord) i.chords = chord.transpose(int).toString();
+                    }
+                })
+            })
+        })
     }
 
     toString(): string {

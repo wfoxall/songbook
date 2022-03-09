@@ -25,13 +25,16 @@ app.get('/songs',(req,res)=>{
 
 app.get('/songs/:name',(req,res)=>{
     const songname = req.params.name;
+    const {transpose} = req.query;
+    const tsemitones = (transpose && typeof transpose === 'string') ?
+    Number.parseInt(transpose) : 0;
     const path = resolve(songsdir,songname);
     // console.log(`Request for... ${path}`)
     readFile(path,{encoding:'utf8'},(err,data)=>{
         if(err) res.status(500).send(err);
         else {
             try {
-                const song = new Song(data,"chordpro");
+                const song = new Song(data,"chordpro",tsemitones);
                 res.json({html:song.toHTML(),title:song.Title, artist: song.Artist, filename: songname});
             } catch (error) {
                 console.error(error)
