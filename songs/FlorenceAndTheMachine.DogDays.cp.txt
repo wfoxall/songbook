@@ -1,82 +1,67 @@
+{artist:Florence and the Machine}
+{title:The Dog Days Are Over}
+
 {comment: Intro}
 
 {start_of_verse}
-{end_of_verse}
-
 [G]  Happiness hit her like a train on a tr[Am]ack[Em]...
 [G]  Coming towards her, stuck still no turning b[Am]ack[Em]...
 [G]She hid around corners and she hid under beds
 [G]  She killed it with kis[Am]ses and f[Em]rom it she fled
 With [G]every bubble she sank with her drink
 And wa[G]shed it aw[Am]ay down the [Em]kitchen sink
-
+{end_of_verse}
 
 {start_of_chorus}
-{end_of_chorus}
-
 The [G]dog days are over
 The [G]dog days are done
 The [G]horses are [Am]coming
 So [Em]you better run
-
+{end_of_chorus}
 
 {start_of_verse}
-{end_of_verse}
-
 Run [G]fast for your mother, run fast for your father
 [G]Run for your children, for your sisters and brothers
 [G]Leave all your loving, your lo[Am]ving behind
 You can't [Em]carry it with you if you want to survive
-
+{end_of_verse}
 
 {start_of_chorus}
-{end_of_chorus}
-
 The [G]dog days are over
 The [G]dog days are done
 [G]Can you hear the hor[Am]ses?
 'Cause [Em]here they come[G]
+{end_of_chorus}
 
-(silence)
-
+{comment:silence}
 
 {start_of_verse}
-{end_of_verse}
-
-(quiet)
-
+{comment:quiet}
 And [G]I [G]never wanted [G]anything [Am]from you[Em]
 Except [G]for every[G]thing you had and [G]what was left [Am]after that [Em]too, oh
-
-(loud again)
-
+{comment:loud again}
 [G]Happiness hit her[G] like a bullet in the [G]hea[Am]d..[Em]...
 [G] Struck from a great height[G] by someone who [G]should know bet[Am]ter than t[Em]hat
-
+{end_of_verse}
 
 {start_of_chorus}
-{end_of_chorus}
-
 The [G]dog days are over
 The [G]dog days are done
 [G]Can you hear the hor[Am]ses?
 'Cause [Em]here they come[G]
+{end_of_chorus}
 
-(Percussion interlude)
-
+{comment:Percussion interlude}
 
 {start_of_verse}
-{end_of_verse}
-
 Run [G]fast for your mother, run fast for your father
 [G]Run for your children, for your sisters and brothers
 [G]Leave all your loving, your [Am]loving behind
 You can't [Em]carry it with you if you want to survive
+{end_of_verse}
 
 
 {start_of_chorus}
-{end_of_chorus}
-
 The [G]dog days are over
 The [G]dog days are done
 [G]Can you hear the hor[Am]ses?
@@ -86,5 +71,5 @@ The [G]dog days are over
 The [G]dog days are done
 [G]The horses are co[Am]ming
 So [Em]you better run
-
-G
+[G]
+{end_of_chorus}

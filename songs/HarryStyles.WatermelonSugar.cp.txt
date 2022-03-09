@@ -21,8 +21,7 @@ I don't [C]know if I could ever go with[G]out
 Watermelon sugar [Dm7]high
 Watermelon sugar [Am7]high
 Watermelon sugar [C]high
-                 N.C.
-Watermelon sugar high
+Watermelon sugar [N.C]high
 {end_of_chorus}
 
 (Watermelon sugar)
@@ -40,7 +39,7 @@ Watermelon sugar high
 
 {comment: Pre-Chorus}
 Breathe me [Dm7]in, breathe me [Am7]out
-I don't k[C]now if I could ever go without
+I don't k[C]now if I could [N.C.]ever go without
 
 
 {start_of_chorus}
@@ -67,8 +66,7 @@ Watermelon sugar [G]high
 [C]   And it sounds just like a [G]song
    I want [Dm7]your belly
    And that [Am7]summer feeling
-   N.C.
-   I don't know if I could ever go without
+   [N.C]I don't know if I could ever go without
 
 
 {start_of_chorus}
@@ -90,5 +88,4 @@ Watermelon sugar [G]high
 [Dm7]I just wanna taste it
 [Am7]I just wanna taste it
 [C]Watermelon sugar [G]high
-N.C.
-Watermelon sugar
+[N.C]Watermelon sugar
