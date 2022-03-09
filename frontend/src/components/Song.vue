@@ -1,16 +1,16 @@
 <template>
-  <v-container class="song">
-    <v-row>
+  <v-flex class="song ma-1" max-width="100%">
+    <v-row class="pa-1 ma-1">
       <!-- <v-col cols="1">
         <v-btn @click="close">Back</v-btn>
       </v-col> -->
-      <v-col cols="11">
+      <v-col cols="12">
         <!-- <button @click="chords">Toggle Chords</button> -->
-        <div class="content" v-if="song.html"  v-html="song.html"></div>
+        <div class="content" :class="{horizontal:horizontal}" v-if="song.html"  v-html="song.html"></div>
         <div v-else>Couldn't load song!!</div>
       </v-col>
     </v-row>
-  </v-container>
+  </v-flex>
 </template>
 
 <script lang="ts">
@@ -18,6 +18,7 @@ import {Vue, Component, Prop} from 'vue-property-decorator';
 import APISong from '../apisong';
 @Component
 export default class Song extends Vue {
+    horizontal = true;
     @Prop({type:Object,required:true}) readonly song!: APISong;
     close(){
       this.$emit('close');
@@ -48,10 +49,17 @@ export default class Song extends Vue {
     page-break-after: avoid;
     display: block;
   }
+  .content.horizontal .chord-sheet {
+    display: flex;
+    max-height: 90vh;
+    flex-direction: column;
+    flex-wrap: wrap;
+    overflow-x: auto;
+    gap: 2rem;
+  }
   .chord-sheet {
     page-break-before: avoid;
     page-break-inside: auto;
-    display: block;
     padding: 1rem;
   }
   .paragraph {
@@ -59,6 +67,9 @@ export default class Song extends Vue {
     flex-direction: column;
     gap: 0.25rem;
     padding: 1rem 1rem;
+    &.verse,&.chorus{
+      background-color: #fafbfc;
+    }
     &.chorus {
       border: 1px none #bbb;
       border-left-style: solid;
@@ -67,6 +78,7 @@ export default class Song extends Vue {
   .row {
     display: flex;
     flex-direction: row;
+    justify-content: stretch;
     text-align: start;
     gap: 0.25rem 0rem;
     .column {
@@ -98,7 +110,7 @@ export default class Song extends Vue {
     }
   }
   .comment {
-    color: #444;
+    color: rgb(116, 116, 116);
     display: flex;
     font-style: italic;
     text-decoration: underline;
