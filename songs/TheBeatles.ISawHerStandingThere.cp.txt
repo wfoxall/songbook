@@ -1,48 +1,54 @@
+{artist:The Beatles}
+{title:I Saw Her Standing There}
+
 One, two, three, four
 
-
+{start_of_verse}
 Well, she was [E]just seventeen
 You [A]know what I [E]mean
 And the [(E)]way she looked
 Was [(E)]way beyond com[B]pare
 So [E]how could I [E/Ab]dance with a[A]nother [C]
 Ooh, when I [E]saw her [B]standing [E]there?
+{end_of_verse}
 
-
-
+{start_of_verse}
 Well, she looked at me
 And I, I could see
 That before too long
 I'd fall in love with her
 She wouldn't dance with another
 Ooh, when I saw her standing there
+{end_of_verse}
 
-
+{start_of_chorus}
 Well, my [A]heart went, "Boom"
-
 When I [(A)]crossed that room
 And I [(A)]held her hand in [B]mine....[A]
+{end_of_chorus}
 
-
+{start_of_verse}
 Oh, we danced through the night
 And we held each other tight
 And before too long
 I fell in love with her
 Now I'll never dance with another
 Ooh, since I saw her standing there
+{end_of_verse}
 
+{start_of_chorus}
+Well, my [A]heart went, "Boom"
+When I [(A)]crossed that room
+And I [(A)]held her hand in [B]mine....[A]
+{end_of_chorus}
 
-Well, my heart went, "Boom"
-
-When I crossed that room
-And I held her hand in mine
-
-
+{start_of_verse}
 Oh, we danced through the night
 And we held each other tight
 And before too long
 I fell in love with her
 Now I'll never dance with another
-Ooh, since I saw her standing there
-Whoa, since I saw her standing there
-Yeah, well, since I saw her standing there
+Ooh, since I [E]saw her [B]standing [E]there
+Whoa, since I [E]saw her [B]standing [E]there
+Yeah, well, since I [E]saw her [B]standing [A]there...[E]
+{end_of_verse}

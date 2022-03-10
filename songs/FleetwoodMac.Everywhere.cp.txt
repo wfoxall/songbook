@@ -2,7 +2,7 @@
 {title: Everywhere}
 
 {comment: Intro}
-E B E B E B C#m A (x2)
+[E] [B] [E] [B] [E] [B] [C#m] [A] (x2)
 
 {start_of_verse}
 [E]Can you hear me [B]calling [E]out your [B]name?
