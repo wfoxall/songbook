@@ -23,6 +23,16 @@ app.get('/songs',(req,res)=>{
     })
 })
 
+app.get('/setlists',(req,res)=>{
+    readFile(resolve(songsdir,'setlists.json'),{encoding:'utf-8'},(err,data)=>{
+        if(err) res.status(500).json([]);
+        else{
+            let setlists = JSON.parse(data);
+            res.json(setlists)
+        }
+    })
+})
+
 app.get('/songs/:name',(req,res)=>{
     const songname = req.params.name;
     const {transpose} = req.query;

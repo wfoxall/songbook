@@ -1,6 +1,7 @@
 <template>
-  <v-flex class="song ma-1" max-width="100%">
-    <v-row class="pa-1 ma-1">
+  <!-- <v-flex class="song ma-1" max-width="100%"> -->
+    <!-- <v-row class="song pa-1 ma-1"> -->
+    <v-row class="song">
       <!-- <v-col cols="1">
         <v-btn @click="close">Back</v-btn>
       </v-col> -->
@@ -10,7 +11,7 @@
         <div v-else>Couldn't load song!!</div>
       </v-col>
     </v-row>
-  </v-flex>
+  <!-- </v-flex> -->
 </template>
 
 <script lang="ts">
@@ -37,7 +38,7 @@ export default class Song extends Vue {
   }
   .song {
     min-width: 40rem;
-    margin: 1rem auto;
+    margin: 0rem auto;
     padding: 1rem;
     // page-break-inside: auto;
     // background-color: #f0f0f0;
@@ -51,7 +52,7 @@ export default class Song extends Vue {
   }
   .content.horizontal .chord-sheet {
     display: flex;
-    max-height: 90vh;
+    max-height: 85vh;
     flex-direction: column;
     flex-wrap: wrap;
     overflow-x: auto;

@@ -10,6 +10,7 @@
   "scripts": {
     "start": "npm run start -w @wfoxall/songbook-server",
     "build": "npm run build -workspaces",
+    "build:server": "npm run build -w @wfoxall/songbook-server",
     "prebuild": "npm i"
   },
   "repository": {
